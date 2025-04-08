@@ -1,0 +1,33 @@
+.dashboard-card {
+  padding: 20px;
+  height: 100%;
+  overflow: auto;
+}
+
+.dashboard-card h6 {
+  margin-bottom: 16px;
+  border-bottom: 2px solid #f0f0f0;
+  padding-bottom: 8px;
+}
+
+.tamil-text {
+  font-family: 'Noto Sans Tamil', sans-serif;
+  line-height: 1.6;
+}
+
+.analysis-grid {
+  display: grid;
+  grid-gap: 16px;
+  margin-top: 16px;
+}
+
+.score-card {
+  display: flex;
+  align-items: center;
+  margin: 8px 0;
+}
+
+.score-label {
+  min-width: 120px;
+  color: #666;
+}

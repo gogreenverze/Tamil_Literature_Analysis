@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "total_kurals": 1330,
+    "sections": 3,
+    "chapters": 133,
+    "kurals_per_chapter": 10
+  },
+  "kurals": [
+    {
+      "id": 1,
+      "section": "அறத்துப்பால்",
+      "section_english": "Virtue",
+      "chapter": "கடவுள் வாழ்த்து",
+      "chapter_english": "Praise of God",
+      "number": 1,
+      "tamil": "அகர முதல எழுத்தெல்லாம் ஆதி\nபகவன் முதற்றே உலகு.",
+      "english": "A, as its first of letters, every speech maintains; The Primal Deity is first through all the world's domains.",
+      "explanation_tamil": "எழுத்துக்கள் எல்லாம் அகரத்தை அடிப்படையாக கொண்டிருக்கின்றன. அதுபோல, உலகம் கடவுளை அடிப்படையாகக் கொண்டுள்ளது.",
+      "explanation_english": "As the letter A is the first of all letters, so the eternal God is first in the world.",
+      "keywords": ["god", "beginning", "creation", "foundation", "கடவுள்", "தொடக்கம்", "படைப்பு", "அடிப்படை"]
+    },
+    {
+      "id": 155,
+      "section": "அறத்துப்பால்",
+      "section_english": "Virtue",
+      "chapter": "பொறையுடைமை",
+      "chapter_english": "Patience/Forgiveness",
+      "number": 5,
+      "tamil": "இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்\nவன்மை மடவார்ப் பொறை.",
+      "english": "Who with the strength of patience decked can bear with those who revile is head of all.",
+      "explanation_tamil": "தன்னை இகழ்ந்தவரைப் பொறுத்துக் கொள்ளும் பண்பு, எல்லா வலிமைகளிலும் சிறந்த வலிமையாகும்.",
+      "explanation_english": "The greatest strength of all is the strength to forgive those who have wronged you.",
+      "keywords": ["forgiveness", "patience", "strength", "tolerance", "பொறுமை", "மன்னிப்பு", "வலிமை", "பொறுத்துக்கொள்ளுதல்"]
+    },
+    {
+      "id": 391,
+      "section": "பொருட்பால்",
+      "section_english": "Wealth",
+      "chapter": "கல்வி",
+      "chapter_english": "Learning",
+      "number": 1,
+      "tamil": "கற்க கசடறக் கற்பவை கற்றபின்\nநிற்க அதற்குத் தக.",
+      "english": "Learn so as to be free from fault; having learned, act in accordance with that learning.",
+      "explanation_tamil": "குற்றமற்ற நூல்களைக் கற்க வேண்டும்; கற்றபின், அதன்படி நடக்க வேண்டும்.",
+      "explanation_english": "Learn perfectly whatever you learn, and after having learned it, let your conduct be worthy of that knowledge.",
+      "keywords": ["education", "learning", "knowledge", "conduct", "கல்வி", "அறிவு", "நடத்தை", "ஒழுக்கம்"]
+    },
+    {
+      "id": 578,
+      "section": "பொருட்பால்",
+      "section_english": "Wealth",
+      "chapter": "அன்புடைமை",
+      "chapter_english": "Possession of Love",
+      "number": 8,
+      "tamil": "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்\nஎன்பும் உரியர் பிறர்க்கு.",
+      "english": "The loveless to themselves belong alone; The loving men are others' to the very bone.",
+      "explanation_tamil": "அன்பில்லாதவர் தமக்கே உரியவர்; அன்புடையவர் எலும்பு உள்ளிட்ட உடல் முழுவதும் பிறருக்கு உரியவர்.",
+      "explanation_english": "Those who are destitute of love appropriate all they have to themselves; but those who possess love consider even their bones as belonging to others.",
+      "keywords": ["love", "selflessness", "giving", "sharing", "அன்பு", "தன்னலமின்மை", "கொடுத்தல்", "பகிர்தல்"]
+    },
+    {
+      "id": 1330,
+      "section": "காமத்துப்பால்",
+      "section_english": "Love",
+      "chapter": "ஊடலுவகை",
+      "chapter_english": "The Joy of Reconciliation",
+      "number": 10,
+      "tamil": "ஊடலின் தோன்றும் சிறுதுனி நல்லளி\nவாடினும் பாடு பெறும்.",
+      "english": "The little feud that lovers cause Brings rich delight when anger pause.",
+      "explanation_tamil": "காதலர்களிடையே ஏற்படும் சிறிய ஊடல், பின்னர் நீங்கும்போது பெரும் இன்பத்தைத் தரும்.",
+      "explanation_english": "The little disagreement which lovers create intentionally will give them an endless delight when their anger subsides.",
+      "keywords": ["love", "reconciliation", "lovers quarrel", "reunion", "காதல்", "சமரசம்", "ஊடல்", "கூடல்"]
+    }
+  ]
+}
